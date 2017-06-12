@@ -1,0 +1,22 @@
+<svg id="высота" xmlns="http://www.w3.org/2000/svg" width="40" height="462" viewBox="0 0 40 462">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #5d4063;
+        stroke-width: 1px;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #5d4063;
+      }
+    </style>
+  </defs>
+  <path id="Фигура_1" data-name="Фигура 1" class="cls-1" d="M0,2V0H40V2H0Z"/>
+  <path id="Фигура_1_копия" data-name="Фигура 1 копия" class="cls-1" d="M0,462.093v-1.971H40v1.971H0Z"/>
+  <path id="Фигура_2_копия" data-name="Фигура 2 копия" class="cls-2" d="M20.8,231.447H19.2V10.15H16l4-8.257,4,8.257H20.8v221.3Zm-1.6,0h1.6V451.881H24l-4,8.226-4-8.226h3.2V231.447Z"/>
+</svg>
